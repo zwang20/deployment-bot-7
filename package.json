@@ -1,0 +1,28 @@
+{
+  "name": "db7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwang20/deployment-bot-7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zwang20/deployment-bot-7/issues"
+  },
+  "homepage": "https://github.com/zwang20/deployment-bot-7#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "discord-api-types": "^0.32.1",
+    "discord.js": "^13.6.0",
+    "eslint": "^8.15.0",
+    "typescript": "^4.6.4"
+  }
+}
